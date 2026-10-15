@@ -1,6 +1,6 @@
 # Heng Menghong
 
-Data Science Student | NLP Practitioner | Applied Data Engineer  
+Data Science Student | Applied Data Engineer  
 Phnom Penh, Cambodia
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live_Site-0070e0?style=flat-square)](https://menghong-heng.github.io/Portfolio/)
@@ -12,12 +12,11 @@ Phnom Penh, Cambodia
 
 ## About Me
 
-I am a final-year Data Science student at the Institute of Technology of Cambodia (ITC) with a concurrent background in English from the Institute of Foreign Languages (IFL), Royal University of Phnom Penh.
+I am a final-year Data Science student at the Institute of Technology of Cambodia (ITC).
 
-My focus spans data engineering, machine learning pipelines, and language technologies. I design scalable ETL architectures, automate data collection and citation workflows, build production dashboards, and apply NLP to low-resource languages.
+My focus spans data engineering, machine learning pipelines, and practical data solutions. I design scalable ETL architectures, automate data collection workflows, build production dashboards, and develop applied machine learning models.
 
-- **Data Science**: Bachelor of Engineering in Data Science, Department of Applied Mathematics and Statistics (AMS), Institute of Technology of Cambodia (ITC).
-- **Technical Communication**: Bachelor of Education in English, Department of English, Institute of Foreign Languages (IFL), Royal University of Phnom Penh (RUPP).
+- **Education**: Bachelor of Engineering in Data Science, Department of Applied Mathematics and Statistics (AMS), Institute of Technology of Cambodia (ITC).
 - **Certifications**: Certified LLM Security Professional (CLLM SP) by Red Team Leaders; ASEAN Data Science Explorers (SAP Analytics Cloud).
 
 ---
