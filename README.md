@@ -33,13 +33,13 @@ My focus spans data engineering, machine learning pipelines, and practical data 
 
 ### Data Engineering and Machine Learning
 - **Libraries**: Pandas, NumPy, Scikit-learn, PyTorch, PySpark, SQLAlchemy
-- **Data Extraction & Ingestion**: BeautifulSoup, GoQuery, Requests, Selenium, Crossref API, Open Library API
-- **NLP & Modeling**: TF-IDF, Logistic Regression, Text Classification, Citation Extraction, Romanized Khmer Transliteration
+- **Data Extraction & Ingestion**: BeautifulSoup, Requests, Selenium
+- **Machine Learning & Modeling**: TF-IDF, Logistic Regression, Text Classification, Supervised Learning
 
 ### Databases, BI, and Infrastructure
 - **Databases**: PostgreSQL, MySQL, SQLite
 - **Analytics & BI**: Power BI, Streamlit
-- **DevOps & Tooling**: Docker, Docker Compose, Git, GitHub Actions, Linux, Task Scheduler
+- **DevOps & Tooling**: Docker, Docker Compose, Git, GitHub Actions, Linux
 
 ### Web Development
 - React, Next.js, Vite, Tailwind CSS
@@ -54,33 +54,23 @@ My focus spans data engineering, machine learning pipelines, and practical data 
 - Connected interactive Power BI dashboards visualizing salary benchmarks, top in-demand technical competencies, and regional hiring distributions.
 - *Tech Stack*: Python, BeautifulSoup, Pandas, PostgreSQL, SQLAlchemy, Power BI, Docker.
 
-### 2. [RefBot - Automated Citation & Reference Telegram Bot](https://github.com/menghong-heng)
-- High-throughput Telegram bot built in Go generating APA 7th, APA narrative/in-text, and MLA citations for academic researchers and university students.
-- Implements automated metadata resolution from DOIs (Crossref API), ISBNs (Open Library API), webpage URLs, and uploaded research-paper PDFs.
-- Features local PDF text extraction, metadata detection heuristics, and zero dependency on commercial AI APIs.
-- *Tech Stack*: Go, `go-telegram/bot`, Crossref REST API, Open Library API, `goquery`, Docker.
+### 2. [E-Commerce Sales Pipeline & Analysis](https://github.com/menghong-heng/E_Commerce_Analysis)
+- Engineered a relational database ingestion pipeline for Amazon sales transaction records.
+- Designed structured relational schemas in MySQL with user access controls and order fulfillment tracking.
+- Developed automated data cleaning and transformation scripts in Python (Pandas, SQLAlchemy) to normalize dates, cleanse records, and load datasets into MySQL.
+- *Tech Stack*: Python, Pandas, SQLAlchemy, MySQL, PyMySQL, Jupyter Notebook.
 
-### 3. [High-Performance Media Downloader Bot](https://github.com/menghong-heng)
-- Asynchronous Telegram bot service for retrieving clean, watermark-free media and multi-image slideshow carousels with native audio preservation.
-- Implements audio normalization (-14 LUFS standard) via FFmpeg and local SQLite stream caching to eliminate redundant downloads.
-- Includes a lightweight real-time web monitoring dashboard inspecting CPU, RAM, and background task streams with zero idle overhead.
-- *Tech Stack*: Python, `python-telegram-bot`, `httpx`, `yt-dlp`, FFmpeg, SQLite, Docker Compose.
-
-### 4. [Public Health Surveillance Analytics & Star-Schema Pipeline](https://github.com/menghong-heng)
-- Developed surveillance data cleaning, normalization, and longitudinal analytics workflows for respiratory health data (SARI and ILI).
-- Designed analytical data models in PostgreSQL and interactive Power BI surveillance reporting modules.
-- *Tech Stack*: Python, PostgreSQL, Power BI, Statistical Modeling.
-
-### 5. [Trustpilot Sentiment Scraper & Classifier](https://github.com/menghong-heng/beautiful_soup_scrape)
+### 3. [Trustpilot Sentiment Scraper & Classifier](https://github.com/menghong-heng/beautiful_soup_scrape)
 - Extracted consumer reviews using BeautifulSoup and engineered a TF-IDF text representation pipeline.
 - Trained a multi-class Logistic Regression classifier achieving 77.7% test accuracy (0.78 weighted F1 score) across sentiment categories.
 - Deployed a live Streamlit web application providing real-time sentiment inference.
 - *Tech Stack*: Python, Scikit-learn, Streamlit, Joblib.
 
-### 6. [Personal Portfolio WebApp](https://github.com/menghong-heng/Portfolio)
+### 4. [Personal Developer Portfolio](https://github.com/menghong-heng/Portfolio)
 - Responsive developer portfolio built with React, TypeScript, Vite, and Tailwind CSS.
 - Highlights academic curriculum, featured projects, and contact integrations.
 - Deployed live on GitHub Pages: [https://menghong-heng.github.io/Portfolio/](https://menghong-heng.github.io/Portfolio/)
+- *Tech Stack*: React, TypeScript, Vite, Tailwind CSS.
 
 ---
 
