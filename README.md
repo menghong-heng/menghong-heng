@@ -77,12 +77,7 @@ My focus spans data engineering, machine learning pipelines, and practical data 
 - Deployed a live Streamlit web application providing real-time sentiment inference.
 - *Tech Stack*: Python, Scikit-learn, Streamlit, Joblib.
 
-### 6. [Advance Programming for Data Science (Year 05 ITC APDS)](https://github.com/menghong-heng/year-05-itc-apds)
-- Coursework repository covering professional Git branching strategies, code aesthetics from *The Art of Readable Code*, and modular software design.
-- Multi-branch architecture separating lectures, lab practicals (`tp`), assignments, and project deliverables.
-- *Tech Stack*: Python 3.14, Git, Pytest, MyPy.
-
-### 7. [Personal Portfolio WebApp](https://github.com/menghong-heng/Portfolio)
+### 6. [Personal Portfolio WebApp](https://github.com/menghong-heng/Portfolio)
 - Responsive developer portfolio built with React, TypeScript, Vite, and Tailwind CSS.
 - Highlights academic curriculum, featured projects, and contact integrations.
 - Deployed live on GitHub Pages: [https://menghong-heng.github.io/Portfolio/](https://menghong-heng.github.io/Portfolio/)
