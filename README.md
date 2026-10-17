@@ -42,7 +42,7 @@ My focus spans data engineering, machine learning pipelines, and practical data 
 - **DevOps & Tooling**: Docker, Docker Compose, Git, GitHub Actions, Linux
 
 ### Web Development
-- React, Next.js, Vite, Tailwind CSS
+- React, Next.js, Vite, Tailwind CSS, Django
 
 ---
 
