@@ -90,3 +90,9 @@ My focus spans data engineering, machine learning pipelines, and practical data 
 - **Telegram**: [@menghong_hengg](https://t.me/menghong_hengg)
 - **GitHub**: [github.com/menghong-heng](https://github.com/menghong-heng)
 - **Location**: Phnom Penh, Cambodia
+
+---
+
+<p align="center">
+  <sub>⚡ Activity tracked & synced daily • Last active: 2026-10-18</sub>
+</p>
