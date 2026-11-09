@@ -45,6 +45,10 @@ Built a responsive portfolio for my coursework, projects, and contact links. [Vi
 
 ## Technical toolkit
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,postgres,mysql,docker,git,go,ts,react&amp;perline=4" alt="Python, PostgreSQL, MySQL, Docker, Git, Go, TypeScript, and React" width="224">
+</p>
+
 | Area | Tools and methods |
 | --- | --- |
 | Languages | Python, SQL, R, Go, TypeScript, LaTeX |
@@ -58,3 +62,7 @@ Built a responsive portfolio for my coursework, projects, and contact links. [Vi
 - **B.Eng. in Data Science** · Department of Applied Mathematics and Statistics, Institute of Technology of Cambodia
 - **Certified LLM Security Professional (CLLM SP)** · Red Team Leaders
 - **ASEAN Data Science Explorers** · SAP Analytics Cloud
+
+## GitHub activity
+
+[View my contribution graph and recent activity](https://github.com/menghong-heng#contribution-activity)
