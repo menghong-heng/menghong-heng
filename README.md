@@ -10,7 +10,6 @@
 </p>
 
 <p align="center">
-  <a href="https://menghong-heng.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=flat-square" alt="Portfolio"></a>
   <a href="mailto:heng.menghong.321@gmail.com"><img src="https://img.shields.io/badge/Email-334155?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://t.me/menghong_hengg"><img src="https://img.shields.io/badge/Telegram-334155?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"></a>
 </p>
@@ -36,12 +35,6 @@ Built a Python pipeline to clean and load Amazon sales records into MySQL. Desig
 Scraped consumer reviews and trained a multiclass sentiment classifier using TF-IDF and logistic regression. The model reached **77.7% test accuracy** and **0.78 weighted F1**. Deployed a Streamlit app for live predictions.
 
 **Stack** · Python, BeautifulSoup, scikit-learn, Streamlit, Joblib
-
-### [Developer Portfolio](https://menghong-heng.github.io/Portfolio/)
-
-Built a responsive portfolio for my coursework, projects, and contact links. [View source](https://github.com/menghong-heng/Portfolio)
-
-**Stack** · React, TypeScript, Vite, Tailwind CSS, GitHub Pages
 
 ## Technical toolkit
 
