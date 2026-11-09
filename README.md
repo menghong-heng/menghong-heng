@@ -24,6 +24,15 @@ Built an automated ETL pipeline for **12,000+ job postings across 13 Cambodian j
 
 **Stack** · Python, BeautifulSoup, Pandas, SQLAlchemy, PostgreSQL, Power BI, Docker
 
+<details>
+<summary>Explore the job market data pipeline</summary>
+
+1. **Collect** public postings from 13 Cambodian job portals using Python and BeautifulSoup.
+2. **Model** the cleaned data in PostgreSQL with fact, dimension, and summary tables.
+3. **Analyze** salary benchmarks, in-demand skills, and regional hiring patterns in Power BI.
+
+</details>
+
 ### [E-Commerce Sales Pipeline](https://github.com/menghong-heng/E_Commerce_Analysis)
 
 Built a Python pipeline to clean and load Amazon sales records into MySQL. Designed a relational schema with access controls and order fulfillment tracking.

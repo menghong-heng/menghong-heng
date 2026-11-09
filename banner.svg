@@ -1,4 +1,19 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="880" height="156" viewBox="0 0 880 156">
+  <title>Collect, model, analyze</title>
+  <desc>Data moves from collection through modeling to analysis.</desc>
+  <style>
+    .pulse { opacity: 0; }
+    @media (prefers-reduced-motion: no-preference) {
+      .pulse { animation: flow 1.15s ease-in-out 2; }
+      .pulse-first { animation-delay: .25s; }
+      .pulse-second { animation-delay: 1.4s; }
+    }
+    @keyframes flow {
+      0% { opacity: 0; transform: translateX(0); }
+      20%, 80% { opacity: 1; }
+      100% { opacity: 0; transform: translateX(64px); }
+    }
+  </style>
   <defs>
     <linearGradient id="background" x2="1" y2="1">
       <stop stop-color="#0b1426"/>
@@ -13,14 +28,23 @@
   <g fill="none" stroke="#5a91c9" stroke-width="2">
     <path d="M252 78h74m-8-8 8 8-8 8M553 78h74m-8-8 8 8-8 8"/>
   </g>
+  <g fill="#93ecff">
+    <circle class="pulse pulse-first" cx="256" cy="78" r="4"/>
+    <circle class="pulse pulse-second" cx="557" cy="78" r="4"/>
+  </g>
   <g fill="#142a47" stroke="#426d9c">
     <rect x="46" y="44" width="202" height="68" rx="10"/>
     <rect x="339" y="44" width="202" height="68" rx="10"/>
     <rect x="632" y="44" width="202" height="68" rx="10"/>
   </g>
   <g fill="#eaf3ff" font-family="system-ui, sans-serif" font-size="25" font-weight="600" text-anchor="middle">
-    <text x="147" y="87">Collect</text>
-    <text x="440" y="87">Model</text>
-    <text x="733" y="87">Analyze</text>
+    <text x="147" y="77">Collect</text>
+    <text x="440" y="77">Model</text>
+    <text x="733" y="77">Analyze</text>
+  </g>
+  <g fill="#adc5e0" font-family="system-ui, sans-serif" font-size="14" text-anchor="middle">
+    <text x="147" y="98">Source data</text>
+    <text x="440" y="98">Relational schemas</text>
+    <text x="733" y="98">Dashboards &amp; insights</text>
   </g>
 </svg>
