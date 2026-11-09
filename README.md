@@ -1,4 +1,10 @@
-<h1 align="center">Heng Menghong</h1>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=menghong-heng&amp;color=2563eb&amp;style=flat-square" alt="Profile views">
+</p>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;weight=600&amp;size=21&amp;pause=900&amp;color=3B82F6&amp;center=true&amp;vCenter=true&amp;width=560&amp;height=48&amp;repeat=false&amp;lines=Hi%2C+I%27m+Heng+Menghong" alt="Hi, I'm Heng Menghong" width="560">
+</h1>
 
 <p align="center">
   <strong>Data Science Student · Applied Data Engineer</strong><br>
@@ -66,5 +72,19 @@ Scraped consumer reviews and trained a multiclass sentiment classifier using TF-
 - **ASEAN Data Science Explorers** · SAP Analytics Cloud
 
 ## GitHub activity
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=menghong-heng&amp;theme=github-dark-blue&amp;hide_border=true">
+    <img src="https://streak-stats.demolab.com?user=menghong-heng&amp;theme=transparent&amp;hide_border=true" alt="GitHub contribution total, current streak, and longest streak" width="495">
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/menghong-heng/menghong-heng/output/contribution-snake-dark.svg">
+    <img src="https://raw.githubusercontent.com/menghong-heng/menghong-heng/output/contribution-snake.svg" alt="Animated snake following the squares on my GitHub contribution graph" width="880">
+  </picture>
+</p>
 
 [View my contribution graph and recent activity](https://github.com/menghong-heng#contribution-activity)
